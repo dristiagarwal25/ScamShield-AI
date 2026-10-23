@@ -4,8 +4,6 @@
 🌐 **Live Website:** [Visit ScamShield AI](https://scam-shield-ai-sandy.vercel.app/?utm_source=chatgpt.com)
 
 A full-stack scam-awareness and risk-screening application built with React, Vite, CSS and Express.
-A full-stack scam-awareness and risk-screening application built with React, Vite, CSS and Express.
-
 ## Features
 - Message and URL risk screening with explainable warning signs.
 - Fake job offer checker (recruiter, company, salary, fees, interview and contact details).
